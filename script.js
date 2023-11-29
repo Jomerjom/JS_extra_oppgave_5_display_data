@@ -3,61 +3,61 @@ const peopleArray = [
       name: "John Doe",
       age: 25,
       hobbies: ["Reading", "Hiking"],
-      img: "images/m1.jpg"
+      img: "images/m1.webp"
     },
     {
       name: "Jane Smith",
       age: 30,
       hobbies: ["Painting", "Traveling"],
-      img: "images/f1.jpg"
+      img: "images/f1.webp"
     },
     {
       name: "Bob Johnson",
       age: 22,
       hobbies: ["Coding", "Gaming"],
-      img: "images/m2.jpg"
+      img: "images/m2.webp"
     },
     {
       name: "Alice Brown",
       age: 28,
       hobbies: ["Cooking", "Photography"],
-      img: "images/f2.jpg"
+      img: "images/f2.webp"
     },
     {
       name: "David Wilson",
       age: 35,
       hobbies: ["Running", "Music"],
-      img: "images/m3.jpg"
+      img: "images/m3.webp"
     },
     {
       name: "Emily Davis",
       age: 26,
       hobbies: ["Dancing", "Yoga"],
-      img: "images/f3.jpg"
+      img: "images/f3.webp"
     },
     {
       name: "Chris Miller",
       age: 32,
       hobbies: ["Fishing", "Camping"],
-      img: "images/m4.jpg"
+      img: "images/m4.webp"
     },
     {
       name: "Sophia Garcia",
       age: 29,
       hobbies: ["Writing", "Reading"],
-      img: "images/f4.jpg"
+      img: "images/f4.webp"
     },
     {
       name: "Michael Martinez",
       age: 27,
       hobbies: ["Swimming", "Playing Guitar"],
-      img: "images/m5.jpg"
+      img: "images/m5.webp"
     },
     {
       name: "Olivia Robinson",
       age: 31,
       hobbies: ["Skiing", "Travelling"],
-      img: "images/f5.jpg"
+      img: "images/f5.webp"
     }
   ];
 
